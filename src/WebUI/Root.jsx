@@ -2,7 +2,8 @@ import React from 'react'
 import '../App.css';
 import Typed from 'react-typing-effect';
 import { Row, Col,Container} from 'react-bootstrap';
-import { GitHub, Instagram, LinkedIn, Twitter , ArrowRightAltOutlined} from '@mui/icons-material';
+import { GitHub, Instagram, LinkedIn, ArrowRightAltOutlined} from '@mui/icons-material';
+import EmailIcon from '@mui/icons-material/Email';
 import { LinearProgress} from '@mui/material'
 import RGPics from '../components/assets/img/RGPics.jpeg'
 // import '../components/Animation'
@@ -36,9 +37,9 @@ function Root() {
     
             <div className="social-links">
               <a href="https://www.instagram.com/raja_guru03/" className="instagram"><Instagram/></a>
-              <a href="https://twitter.com" className="twitter"><Twitter/> </a>
-              <a href="https://github.com/Rajaguru03" className="github"><GitHub/> </a>
+              <a href="https://github.com/Rajaguru03" className="github"><GitHub/> </a>          
               <a href="https://www.linkedin.com/in/rajaguru-nataraj-836523202/" className="linkedin"><LinkedIn/> </a> 
+              <a href="www.rajagurun003@gmail.com" className="twitter"><EmailIcon/></a>
             </div>
             <div className='scrolldown'>
               <div class="mouse_scroll">
