@@ -5,7 +5,7 @@ import { Row, Col,Container} from 'react-bootstrap';
 import { GitHub, Instagram, LinkedIn, Twitter , ArrowRightAltOutlined} from '@mui/icons-material';
 import { LinearProgress} from '@mui/material'
 import RGPics from '../components/assets/img/RGPics.jpeg'
-import '../components/Animation'
+// import '../components/Animation'
 import { Parallax } from 'react-parallax';
 import Footer from '../components/Footer';
 import ResumeBG from '../components/assets/img/resumeBg2.jpg'
@@ -13,7 +13,11 @@ import PerfectlyAni from '../components/PerfectlyAni';
 
 
 function Root() {
+
+  
   return (
+    <>
+
     <div className='Root'>
       <div className='Non-parallex'>
       <div className='heroImg'></div>
@@ -286,6 +290,7 @@ function Root() {
       <Footer/>
 
     </div>
+    </>
   )
 }
 
