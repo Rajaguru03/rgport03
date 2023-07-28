@@ -11,7 +11,7 @@ import { Parallax } from 'react-parallax';
 import Footer from '../components/Footer';
 import ResumeBG from '../components/assets/img/resumeBg2.jpg'
 import PerfectlyAni from '../components/PerfectlyAni';
-
+import Rajaguru_Resume from '../components/assets/Resume/Rajaguru_Resume.pdf'
 
 function Root() {
 
@@ -279,7 +279,9 @@ function Root() {
               </Col>
               <Col  md={4} className='d-flex justify-content-end'>
                 <div className='E-btn text-center'>
-                  <p>Download Here</p>
+                  <a href={Rajaguru_Resume} download={true} target="_blank" rel="noreferrer">
+                    <p>Download Here</p>
+                  </a>
                 </div>
               </Col>
           </Row>
