@@ -451,13 +451,49 @@ section {
   margin: 0 auto;
   z-index: 1;
 }
-
 .RGPic{
   background: white;
   padding: 20px 0;
 }
+.RGTitle{
+  text-align: center;
+  padding-bottom: 30px;
+}
+.RGTitle h2{
+  font-size: 32px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  color: #45505b;
+  z-index: 1;
+}
+.RGTitle h2::before {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 120px;
+  height: 1px;
+  background: #ddd;
+  bottom: 1px;
+  left: calc(50% - 60px);
+}
+.RGTitle h2::after {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 40px;
+  height: 3px;
+  background: #0563bb;
+  bottom: 0;
+  left: calc(50% - 20px);
+}
 .RGTitle p{
   font-size: 1.5em;
+  margin-bottom: 0;
+  position: relative;
+  z-index: 1;
 }
 
 .outer-circle {
