@@ -77,6 +77,7 @@ function Root() {
           </div>
           <div >
             <div className="text-center content">
+              <div></div>
               <h3>Web Developer &amp; UI/UX Designer</h3>
               <br/>
               <p>I am currently studying computer science and engineering at "SNS college of technology". Throughout my studies, I have had the opportunity to develop my skills and work experience, which have given me valuable experience and insights into web application Deveploment. I'm passionate about creating intuitive and engaging user experiences through web design and development. I am always eager to learn new things and to take on new challenges, and m always looking for new ways to improve my skills and stay up-to-date with the latest trends and technologies. I'm passionate about using my skills and experience to lead a healthy mission.</p>
@@ -86,7 +87,7 @@ function Root() {
                     <li><strong>Phone:</strong><p>+91 95005 11202</p></li>
                   </ul>              
                   <ul>
-                    <li><strong>City:</strong><p>Coimbatore, India</p></li>
+                    <li><strong>Location:</strong><p>Coimbatore, India</p></li>
                     <li><strong>Email:</strong><p>rajagurun003@gmail.com</p></li>
                   </ul>                
               </div>
