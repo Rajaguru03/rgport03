@@ -1,6 +1,7 @@
 import React from 'react';
 import '../App.css';
-import {GitHub, Instagram, LinkedIn, Twitter } from '@mui/icons-material';
+import {GitHub, Instagram, LinkedIn} from '@mui/icons-material';
+import EmailIcon from '@mui/icons-material/Email';
 
 function Footer() {
   return (
@@ -11,7 +12,7 @@ function Footer() {
                 <p>"The greatest gift you can give someone is your time because when you give your time, you are giving a portion<br/> of your life that you can never get back."</p>
                 <div className="social-links">
                     <a href="https://www.instagram.com/raja_guru03/" className="instagram"><Instagram/> </a>
-                    <a href="https://twitter.com" className="twitter"><Twitter/> </a>
+                    <a href="mailto:www.rajagurun003@gmail.com"><EmailIcon/></a>
                     <a href="https://github.com/Rajaguru03" className="google-plus"><GitHub/> </a>
                     <a href="https://www.linkedin.com/in/rajaguru-nataraj-836523202/" className="linkedin"><LinkedIn/> </a>
                 </div>

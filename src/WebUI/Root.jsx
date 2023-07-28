@@ -38,7 +38,7 @@ function Root() {
               <a href="https://www.instagram.com/raja_guru03/" className="instagram"><Instagram/></a>
               <a href="https://github.com/Rajaguru03" className="github"><GitHub/> </a>          
               <a href="https://www.linkedin.com/in/rajaguru-nataraj-836523202/" className="linkedin"><LinkedIn/> </a> 
-              <a href="www.rajagurun003@gmail.com" className="twitter"><EmailIcon/></a>
+              <a href="mailto:www.rajagurun003@gmail.com"><EmailIcon/></a>
             </div>
             <div className='scrolldown'>
               <div class="mouse_scroll">
@@ -152,7 +152,7 @@ function Root() {
 
       {/********************************* RESUME *************************************/}
       <div >
-      <Parallax className='resumeBg' strength={200} bgImage={ResumeBG}>
+      <Parallax className='resumeBg' strength={600} bgImage={ResumeBG}>
             <section id="Resume" className="resume">
                 <div className="container" >
 
