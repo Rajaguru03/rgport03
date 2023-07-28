@@ -34,7 +34,6 @@ function Root() {
               speed={100}
               eraseSpeed={100}
             /> 
-    
             <div className="social-links">
               <a href="https://www.instagram.com/raja_guru03/" className="instagram"><Instagram/></a>
               <a href="https://github.com/Rajaguru03" className="github"><GitHub/> </a>          
