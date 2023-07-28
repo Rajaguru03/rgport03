@@ -23,7 +23,7 @@ function Root() {
       <div className='Non-parallex'>
       <div className='heroImg'></div>
       {/******************************* TOP CONTAINER *************************************/}
-      <div id='Hero'className="Hero d-flex flex-column justify-content-center">
+      <div className="Hero d-flex flex-column justify-content-center">
         <div className='HeroBG'>
           
           <div className="container profileName"> 
