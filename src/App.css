@@ -456,7 +456,7 @@ section {
   background: white;
   padding: 20px 0;
 }
-.section-title p{
+.RGTitle p{
   font-size: 1.5em;
 }
 
@@ -540,8 +540,7 @@ section {
   }
 }
 @media (max-width: 590px){
-
-  .section-title p{
+  .RGTitle p{
     font-size: 1em;
   }
   .about .content h3{
@@ -567,7 +566,7 @@ section {
   }
 }
 @media (max-width:328px) {
-  .section-title p{
+  .RGTitle p{
     font-size: .9em;
   }
   .about .content h3{

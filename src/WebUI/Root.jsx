@@ -62,7 +62,7 @@ function Root() {
 
       <div id="About" className="about py-5 my-5">
         <div className="container">
-          <div className="section-title">
+          <div className="RGTitle">
             <h2>About</h2>
             <div className='RGPic'>
               <div>
