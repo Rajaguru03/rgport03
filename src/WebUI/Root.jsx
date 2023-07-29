@@ -30,7 +30,7 @@ function Root() {
             <h1>Rajaguru Nataraj</h1>          
             <Typed
               className='typed-text'
-              text={["Web Designer", "Web Developer"]}
+              text={["Web Designer", "Web Develope"]}
               speed={100}
               eraseSpeed={100}
             /> 
