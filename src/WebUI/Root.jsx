@@ -6,7 +6,7 @@ import { GitHub, Instagram, LinkedIn, ArrowRightAltOutlined} from '@mui/icons-ma
 import EmailIcon from '@mui/icons-material/Email';
 import { LinearProgress} from '@mui/material'
 import RGPics from '../components/assets/img/RGPics.jpeg'
-// import '../components/Animation'
+import '../components/Animation'
 import { Parallax } from 'react-parallax';
 import Footer from '../components/Footer';
 import ResumeBG from '../components/assets/img/resumeBg2.jpg'
