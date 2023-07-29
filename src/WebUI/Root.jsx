@@ -6,7 +6,7 @@ import { GitHub, Instagram, LinkedIn, ArrowRightAltOutlined} from '@mui/icons-ma
 import EmailIcon from '@mui/icons-material/Email';
 import { LinearProgress} from '@mui/material'
 import RGPics from '../components/assets/img/RGPics.jpeg'
-import '../components/Animation'
+// import '../components/Animation'
 import { Parallax } from 'react-parallax';
 import Footer from '../components/Footer';
 import ResumeBG from '../components/assets/img/resumeBg2.jpg'
@@ -15,7 +15,6 @@ import Rajaguru_Resume from '../components/assets/Resume/Rajaguru_Resume.pdf'
 
 function Root() {
 
-  
   return (
     <>
 
@@ -158,7 +157,7 @@ function Root() {
 
                     <div className="section-title">
                     <h2>Resume</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                    <p>Possessing a strong blend of technical expertise, creative problem-solving skills, and a passion for innovation, I am committed to driving impactful results and exceeding expectations. Known for my adaptability, leadership, and collaborative spirit, I thrive in fast-paced environments and excel in cross-functional teams. </p>
                     </div>
 
                     <div className="row">
@@ -179,13 +178,13 @@ function Root() {
                         <h4>SNS COLLEGE OF TECHNOLOGY &amp; ENGINEERING</h4>
                         <h5>2020 - 2024</h5>
                         <p><em>SNS College of Technology, Coimbatore, Tamil Nadu, India</em></p>
-                        <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+                        {/* <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p> */}
                         </div>
                         <div className="resume-item">
-                        <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-                        <h5>2010 - 2014</h5>
-                        <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-                        <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
+                        <h4>HIGHER SECONDARY</h4>
+                        <h5>2018 - 2020</h5>
+                        <p><em>SVGV Matriculation Higher Secondary School, Coimbatore, Tamil Nadu, India  </em></p>
+                        {/* <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p> */}
                         </div>
                     </div>
                     <div className="col-lg-6">
@@ -198,14 +197,24 @@ function Root() {
                           </ul>
                         </div>
                         <div className="resume-item">
-                          <h4>Graphic design specialist</h4>
-                          <h5>2017 - 2018</h5>
-                          <p><em>Stepping Stone Advertising, New York, NY</em></p>
+                          <h4>Snake Game</h4>
+                          <p><em><a href='https://github.com/Rajaguru03/'>https://github.com/Rajaguru03/</a></em></p>
                           <ul>
-                              <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                              <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                              <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                              <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+                            <li>A simple snake game is developed using Javascript</li>
+                          </ul>
+                        </div>
+                        <div className="resume-item">
+                          <h4>Expense Tracker</h4>
+                          <p><em><a href='https://github.com/Rajaguru03/'>https://github.com/Rajaguru03/</a></em></p>
+                          <ul>
+                            <li>Project to track monthly expenses which was developed using ReactJs</li>
+                          </ul>
+                        </div>
+                        <div className="resume-item">
+                          <h4>Personal web portfolio</h4>
+                          <p><em><a href='https://rgport03.vercel.app/'>https://rgport03.vercel.app/</a></em></p>
+                          <ul>
+                            <li>A portfolio is a powerful tool to display your accomplishments, creativity, and capabilities, making it an essential asset in various professional endeavors.</li>
                           </ul>
                         </div>
                     </div>
