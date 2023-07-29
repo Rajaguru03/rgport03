@@ -166,9 +166,9 @@ function Root() {
                         <h3 className="resume-title">Sumary</h3>
                         <div className="resume-item ">
                         <h4>Rajaguru Nataraj</h4>
-                        <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
+                        <p><em>I'm a react developer with 1+ year of experience in the role of web development. I am experienced in various designing tools such as bootstrap, tailwind css, MUI</em></p>
                         <ul>
-                            <li>Portland par 127,Orlando, FL</li>
+                            <li>Coimbatore, Tamil Nadu, India</li>
                             <li>+91 9500511202</li>
                             <li>rajagurun003@gmail.com</li>
                         </ul>
