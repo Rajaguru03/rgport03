@@ -25,7 +25,7 @@
 	height: 100vh;
 	color: #fff;
 	font-size: 3em;
-	margin-top: calc(100vh * var(--i));
+	margin-top: calc(70vh * var(--i));
   	color: rgb(0, 191, 255);
 	z-index: 1;
 }

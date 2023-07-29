@@ -176,9 +176,9 @@ function Root() {
 
                         <h3 className="resume-title">Education</h3>
                         <div className="resume-item">
-                        <h4>Master of Fine Arts &amp; Graphic Design</h4>
-                        <h5>2015 - 2016</h5>
-                        <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
+                        <h4>SNS COLLEGE OF TECHNOLOGY &amp; ENGINEERING</h4>
+                        <h5>2020 - 2024</h5>
+                        <p><em>SNS College of Technology, Coimbatore, Tamil Nadu, India</em></p>
                         <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
                         </div>
                         <div className="resume-item">
