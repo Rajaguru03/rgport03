@@ -288,7 +288,7 @@ function Root() {
               </Col>
               <Col  md={4} className='d-flex justify-content-end'>
                 <div className='E-btn text-center'>
-                  <a href={Rajaguru_Resume} download={true} target="_blank" rel="noreferrer">
+                  <a href={Rajaguru_Resume} download={true}>
                     <p>Download Here</p>
                   </a>
                 </div>
