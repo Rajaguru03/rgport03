@@ -45,25 +45,6 @@ function Contact() {
                         </div>
                     </div>
                     </div>
-                                            
-                        
-                        {/* <div className="map_sec">
-                            <Container >
-                                <Row>
-                                    <Col md={10} className="offset-md-1">
-                                        <div className="map_inner">
-                                            <h4>Find Us on Google Map</h4>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore quo beatae quasi assumenda, expedita aliquam minima tenetur maiores neque incidunt repellat aut voluptas hic dolorem sequi ab porro, quia error.</p>
-                                            <div className="map_bind">
-                                            <Iframe url='https://www.google.com/maps' width='100%' height='500px' className='mx-auto'/>
-                                            </div>
-                                        </div>
-                                    </Col>
-                                </Row>
-                            </Container>
-                        </div> */}
-
-            
                     </div>
                 </Container>
             </div>

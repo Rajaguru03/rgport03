@@ -279,7 +279,7 @@ function Root() {
             </div>
         </div>
       {/********************************* DownloadCV *************************************/}
-      <div className='Enter'>
+      <div  className='Enter'>
         <Container>
           <Row className='E-content mx-auto d-flex align-items-center'>
               <Col md={8} lg={8} className='E-text'>
