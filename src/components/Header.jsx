@@ -16,7 +16,7 @@ function Header()
                 <nav id="navbar" className="navbar nav-menu ">
                     <ul>
                         <li><Link to="Hero" spy={true} smooth={true} offset={1} duration={100}  className="nav-link active"><HomeOutlined/><span>Home</span></Link></li>
-                        <li><Link to="About" spy={true} smooth={true} offset={1} duration={100}   className="nav-link scrollto">< AcUnitOutlined /> <span>About</span></Link></li>
+                        <li><Link to="About" spy={true} smooth={true} offset={50} duration={100}   className="nav-link scrollto">< AcUnitOutlined /> <span>About</span></Link></li>
                         <li><Link to="Resume" spy={true} smooth={true} offset={1} duration={100}   className="nav-link scrollto">< SendOutlined/> <span>Resume</span></Link></li>
                         <li><Link to="Expertise" spy={true} smooth={true} offset={1} duration={100}   className="nav-link scrollto"><BakeryDiningIcon/> <span>Expertise</span></Link></li>
                         <li>

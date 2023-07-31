@@ -33,13 +33,13 @@ function Root() {
               speed={100}
               eraseSpeed={100}
             /> 
-            <div className="social-links">
+            <div  className="social-links">
               <a href="https://www.instagram.com/raja_guru03/"><Instagram/></a>
               <a href="https://github.com/Rajaguru03"><GitHub/> </a>          
               <a href="www.linkedin.com/in/rajagurunataraj"><LinkedIn/> </a> 
               <a href="mailto:www.rajagurun003@gmail.com"><EmailIcon/></a>
             </div>
-            <div className='scrolldown'>
+            <div data-aos="zoom-in-down" className='scrolldown'>
               <div class="mouse_scroll">
                 <div class="mouse">
                   <div class="wheel"></div>
@@ -80,7 +80,7 @@ function Root() {
               <h3>Web Developer &amp; UI/UX Designer</h3>
               <br/>
               <p>I am currently studying computer science and engineering at "SNS college of technology". Throughout my studies, I have had the opportunity to develop my skills and work experience, which have given me valuable experience and insights into web application Deveploment. I'm passionate about creating intuitive and engaging user experiences through web design and development. I am always eager to learn new things and to take on new challenges, and m always looking for new ways to improve my skills and stay up-to-date with the latest trends and technologies. I'm passionate about using my skills and experience to lead a healthy mission.</p>
-              <div className='contentId my-5 d-flex align-item-center justify-content-around'>
+              <div data-aos="zoom-in" className='contentId my-5 d-flex align-item-center justify-content-around'>
                   <ul>
                     <li><strong>Birthday:</strong><p>03 Nov 2002</p></li>
                     <li><strong>Phone:</strong><p>+91 95005 11202</p></li>
@@ -96,9 +96,10 @@ function Root() {
       </div>
       </div>
 
-      {/********************************* SKILL *************************************/}
+      {/********************************* Perfectly Animiation *************************************/}
       <PerfectlyAni/>
-      <div className='skillsBg'>
+      {/********************************* SKILL *************************************/}
+      <div className='skillsBg' data-aos="fade-up" data-aos-duration="1000" >
           <section id="skills" className="skills section-bg">
             <div className="container" >
                 <div className="section-title">
@@ -150,7 +151,7 @@ function Root() {
       </div>
 
       {/********************************* RESUME *************************************/}
-      <div >
+      <div>
       <Parallax className='resumeBg' strength={600} bgImage={ResumeBG}>
             <section id="Resume" className="resume">
                 <div className="container" >
@@ -207,7 +208,7 @@ function Root() {
                           <h4>Expense Tracker</h4>
                           <p><em><a href='https://github.com/Rajaguru03/'>https://github.com/Rajaguru03/</a></em></p>
                           <ul>
-                            <li>Project to track monthly expenses which was developed using ReactJs</li>
+                            <li>Project to track monthly expenses which was developed using MERN stack</li>
                           </ul>
                         </div>
                         <div className="resume-item">
@@ -233,7 +234,7 @@ function Root() {
             <p>People who have expertise just love to share it. That's human nature.</p>
             </div>
             <div className="row justify-content-evenly">
-            <div className="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div className="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-right">
                 <div className="icon-box iconbox-blue">
                 <div className="icon">
                     <svg width="100" height="100" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
@@ -244,7 +245,7 @@ function Root() {
                 <p>“There are three responses to a piece of design – yes, no, and WOW! Wow is the one to aim for”</p>
                 </div>
             </div>
-            <div className="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
+            <div className="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-left">
                 <div className="icon-box iconbox-orange ">
                 <div className="icon">
                     <svg width="100" height="100" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
@@ -279,7 +280,7 @@ function Root() {
             </div>
         </div>
       {/********************************* DownloadCV *************************************/}
-      <div  className='Enter'>
+      <div data-aos="zoom-in" className='Enter'>
         <Container>
           <Row className='E-content mx-auto d-flex align-items-center'>
               <Col md={8} lg={8} className='E-text'>
