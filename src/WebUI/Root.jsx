@@ -29,14 +29,14 @@ function Root() {
             <h1>Rajaguru Nataraj</h1>          
             <Typed
               className='typed-text'
-              text={["Web Designer", "Web Develope"]}
+              text={["Web Designer", "Web Developer"]}
               speed={100}
               eraseSpeed={100}
             /> 
             <div className="social-links">
-              <a href="https://www.instagram.com/raja_guru03/" className="instagram"><Instagram/></a>
-              <a href="https://github.com/Rajaguru03" className="github"><GitHub/> </a>          
-              <a href="https://www.linkedin.com/in/rajaguru-nataraj-836523202/" className="linkedin"><LinkedIn/> </a> 
+              <a href="https://www.instagram.com/raja_guru03/"><Instagram/></a>
+              <a href="https://github.com/Rajaguru03"><GitHub/> </a>          
+              <a href="www.linkedin.com/in/rajagurunataraj"><LinkedIn/> </a> 
               <a href="mailto:www.rajagurun003@gmail.com"><EmailIcon/></a>
             </div>
             <div className='scrolldown'>
