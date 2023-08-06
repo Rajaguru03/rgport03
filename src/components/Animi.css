@@ -49,3 +49,16 @@
 		font-size: .8em;
 	}
 }
+@media (max-width:450px) {
+	.PerfectlyAni h2 span {
+		position: sticky;
+		top: 0;
+		line-height: 100vh;
+		height: 100vh;
+		color: #fff;
+		font-size: 3em;
+		margin-top: calc(20vh * var(--i));
+		color: rgb(0, 191, 255);
+		z-index: 1;
+	}
+}

@@ -17,9 +17,8 @@ function Root() {
 
   return (
     <>
-
+    <ParticleContainer/>
     <div className='Root'>
-      <ParticleContainer/>
       <div className='Non-parallex'>
       <div className='heroImg'></div>
       {/******************************* TOP CONTAINER *************************************/}
