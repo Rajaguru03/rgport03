@@ -57,6 +57,7 @@
 		height: 50vh;
 		color: #fff;
 		margin-top: calc(25vh * var(--i));
+		margin-bottom: 25vh;
 		color: rgb(0, 191, 255);
 		z-index: 1;
 	}
