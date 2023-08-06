@@ -54,10 +54,10 @@
 		position: sticky;
 		top: 0;
 		line-height: 100vh;
-		height: 100vh;
+		height: 50vh;
 		color: #fff;
 		font-size: 3em;
-		margin-top: calc(20vh * var(--i));
+		margin-top: calc(70vh * var(--i));
 		color: rgb(0, 191, 255);
 		z-index: 1;
 	}
