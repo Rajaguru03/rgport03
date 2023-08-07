@@ -284,7 +284,7 @@ function Root() {
         <Container>
           <Row className='E-content mx-auto d-flex align-items-center'>
               <Col md={8} lg={8} className='E-text'>
-                <h1>Wanna to know more</h1>
+                <h1>Wanna know more</h1>
                 <p>Then download my CV to know my passion <ArrowRightAltOutlined/></p>
               </Col>
               <Col  md={4} className='d-flex justify-content-end'>
