@@ -14,7 +14,7 @@ function Footer() {
                     <a href="https://www.instagram.com/raja_guru03/" className="instagram"><Instagram/> </a>
                     <a href="mailto:rajagurun003@gmail.com"><EmailIcon/></a>
                     <a href="https://github.com/Rajaguru03" className="google-plus"><GitHub/> </a>
-                    <a href="https://www.linkedin.com/in/rajaguru-nataraj-836523202/" className="linkedin"><LinkedIn/> </a>
+                    <a href="https://www.linkedin.com/in/rajagurunataraj/" className="linkedin"><LinkedIn/> </a>
                 </div>
                 <div className="credits">
                     <p>Designed by Rajaguru Nataraj</p>

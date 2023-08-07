@@ -36,7 +36,7 @@ function Root() {
             <div  className="social-links">
               <a href="https://www.instagram.com/raja_guru03/"><Instagram/></a>
               <a href="https://github.com/Rajaguru03"><GitHub/> </a>          
-              <a href="www.linkedin.com/in/rajagurunataraj"><LinkedIn/> </a> 
+              <a href="https://www.linkedin.com/in/rajagurunataraj/"><LinkedIn/> </a> 
               <a href="mailto:rajagurun003@gmail.com"><EmailIcon/></a>
             </div>
             <div data-aos="zoom-in-down" className='scrolldown'>
