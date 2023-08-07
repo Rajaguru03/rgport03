@@ -37,7 +37,7 @@ function Root() {
               <a href="https://www.instagram.com/raja_guru03/"><Instagram/></a>
               <a href="https://github.com/Rajaguru03"><GitHub/> </a>          
               <a href="www.linkedin.com/in/rajagurunataraj"><LinkedIn/> </a> 
-              <a href="mailto:www.rajagurun003@gmail.com"><EmailIcon/></a>
+              <a href="mailto:rajagurun003@gmail.com"><EmailIcon/></a>
             </div>
             <div data-aos="zoom-in-down" className='scrolldown'>
               <div class="mouse_scroll">
