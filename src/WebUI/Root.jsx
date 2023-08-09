@@ -199,7 +199,7 @@ function Root() {
                         </div>
                         <div className="resume-item">
                           <h4>Snake Game</h4>
-                          <p><em><a href='https://github.com/Rajaguru03/'>https://github.com/Rajaguru03/</a></em></p>
+                          <p><em><a href='https://github.com/Rajaguru03/Snake_Game.git'>https://github.com/Rajaguru03/Snake_Game.git</a></em></p>
                           <ul>
                             <li>A simple snake game is developed using Javascript</li>
                           </ul>
