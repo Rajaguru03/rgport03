@@ -79,7 +79,7 @@ function Root() {
               <div></div>
               <h3>Web Developer &amp; UI/UX Designer</h3>
               <br/>
-              <p>I am currently pursuing computer science and engineering at "SNS college of technology". Throughout my academics, I have had the opportunity to develop my skills and work experience, which have given me valuable experience and insights into web application Deveploment. I'm passionate about creating intuitive and engaging user experiences through web design and development. I am always eager to learn new things and to take on new challenges, and I'm always looking for new challenges and stay up-to-date with the latest trends and technologies. I'm passionate about implementing my skills and experience to lead a healthy mission.</p>
+              <p>I am currently pursuing computer science and engineering at "SNS college of technology". Throughout my academics, I have had the opportunity to develop my skills and work experience, which have given me valuable experience and insights into web application Deveploment. I'm passionate about creating initiative and engaging user experiences through web design and development. I am always eager to learn new things and to take on new challenges, and I'm always looking for new challenges and stay up-to-date with the latest trends and technologies. I'm passionate about implementing my skills and experience to lead a healthy mission.</p>
               <div data-aos="zoom-in" className='contentId my-5 d-flex align-item-center justify-content-around'>
                   <ul>
                     <li><strong>Birthday:</strong><p>03 Nov 2002</p></li>
