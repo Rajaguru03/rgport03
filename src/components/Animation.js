@@ -61,7 +61,7 @@ const ParticleContainer = () => {
               value: { min: 1, max: 30 },
               animation: {
                 enable: true,
-                speed: { min: 40, max: 80 },
+                speed: { min: 40, max: 300 },
                 sync: true,
                 startValue: "max",
                 destroy: "min"
@@ -83,7 +83,7 @@ const ParticleContainer = () => {
             modes: {
               trail: {
                 delay: 0,
-                quantity: 7,
+                quantity: 9,
                 pauseOnStop : true
               }
             }

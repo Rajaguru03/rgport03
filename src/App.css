@@ -556,17 +556,23 @@ section {
 }
 .about .content p{
   position: relative;
-  z-index: 1;
-  
+  z-index: 1; 
 }
 .about .content ul {
     list-style: none;
     padding: 0;
+    position: relative;
+    z-index: 1;
 }
 .about .content ul li {
     margin-bottom: 20px;
     display: flex;
     align-items: center;
+
+}
+.contentId{
+  position: relative;
+  z-index: 1;
 }
 .about .content ul strong {
     margin-right: 10px;
