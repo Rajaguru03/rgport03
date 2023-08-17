@@ -61,7 +61,7 @@ const ParticleContainer = () => {
               value: { min: 1, max: 30 },
               animation: {
                 enable: true,
-                speed: { min: 40, max: 800 },
+                speed: { min: 40, max: 500 },
                 sync: true,
                 startValue: "max",
                 destroy: "min"
