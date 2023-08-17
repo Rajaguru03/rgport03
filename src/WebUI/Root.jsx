@@ -111,19 +111,19 @@ function Root() {
                     <div className="progress">
                     <span className="skill">React js<i className="val">90%</i></span>
                     <div className="progress-bar-wrap">
-                        <LinearProgress color='inherit' value={100} />
+                        <LinearProgress variant='determinate' color='inherit' value={90} />
                     </div>
                     </div>
                     <div className="progress">
                     <span className="skill">Node js<i className="val">80%</i></span>
                     <div className="progress-bar-wrap">
-                        <LinearProgress color='inherit' value={80} />
+                        <LinearProgress variant='determinate' color='inherit' value={80} />
                     </div>
                     </div>
                     <div className="progress">
                     <span className="skill">sql <i className="val">75%</i></span>
                     <div className="progress-bar-wrap">
-                        <LinearProgress color='inherit' value={75} />
+                        <LinearProgress variant='determinate' color='inherit' value={75} />
                     </div>
                     </div>
                 </div>
@@ -131,17 +131,17 @@ function Root() {
                     <div className="progress">
                     <span className="skill"> version control system (Git, GitHub) <i className="val">80%</i></span>
                     <div className="progress-bar-wrap">
-                        <LinearProgress color='inherit' value={80} />
+                        <LinearProgress variant='determinate' color='inherit' value={80} />
                     </div>
                     </div>
                     <div className="progress">
                     <span className="skill">UI/UX Design <i className="val">90%</i></span>
-                        <LinearProgress color='inherit' value={90} />
+                        <LinearProgress variant='determinate' color='inherit' value={90} />
                     </div>
                     <div className="progress">
                     <span className="skill">Python<i className="val">65%</i></span>
                     <div className="progress-bar-wrap">
-                    <LinearProgress color='inherit' value={65} />
+                    <LinearProgress variant='determinate' color='inherit' value={65} />
                     </div>
                     </div>
                 </div>
