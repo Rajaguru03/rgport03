@@ -171,7 +171,6 @@ function Root() {
                             <li>rajagurun003@gmail.com</li>
                             <li>Coimbatore, Tamil Nadu, India</li>
                             <li>+91 9500511202</li>
-                            
                         </ul>
                         </div>
 
