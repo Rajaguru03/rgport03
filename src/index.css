@@ -11,16 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-html{
+
+html {
   scroll-behavior: smooth;
 }
 
-/*********************GENERAL*****************/ 
+/*********************GENERAL*****************/
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
   overflow-x: hidden;
-  
+
 }
 
 a {
@@ -33,19 +34,26 @@ a:hover {
   text-decoration: none;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: "Raleway", sans-serif;
 }
 
 /* scrolling bar */
 
-::-webkit-scrollbar{
+::-webkit-scrollbar {
   width: 8px;
   height: 10px;
 }
-::-webkit-scrollbar-track{
+
+::-webkit-scrollbar-track {
   background-color: rgb(203, 237, 255);
 }
-::-webkit-scrollbar-thumb{
+
+::-webkit-scrollbar-thumb {
   background-color: rgb(66, 189, 246);
 }

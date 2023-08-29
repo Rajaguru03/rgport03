@@ -13,12 +13,12 @@ const PerfectlyAni = () => {
   }, []);
 
   return (
-    <div className='PerfectlyAni'>      
-        <h2 id="text" style={{ textShadow: shadow }}>
+    <div className='PerfectlyAni'>
+      <h2 id="text" style={{ textShadow: shadow }}>
         <span style={{ '--i': 0 }}> PERFECTLY</span>
         <span className='mx-2' style={{ '--i': 1 }}> ~ </span>
         <span style={{ '--i': 2 }}> IMPERFECT</span>
-        </h2>
+      </h2>
     </div>
   );
 };

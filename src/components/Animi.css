@@ -11,12 +11,14 @@
 	text-transform: uppercase;
 	margin: 0 50px;
 }
+
 .PerfectlyAni h2 {
 	position: relative;
 	background: linear-gradient(0deg, #1b1b1b3b, #ffffff);
 	display: flex;
 	justify-content: center;
 }
+
 .PerfectlyAni h2 span {
 	position: sticky;
 	top: 0;
@@ -25,29 +27,34 @@
 	color: #fff;
 	font-size: 3em;
 	margin-top: calc(70vh * var(--i));
-  	color: rgb(0, 191, 255);
+	color: rgb(0, 191, 255);
 	z-index: 1;
 }
+
 @media (max-width:1190px) {
 	.PerfectlyAni h2 span {
 		font-size: 2em;
 	}
 }
+
 @media (max-width:800px) {
 	.PerfectlyAni h2 span {
 		font-size: 1.5em;
 	}
 }
+
 @media (max-width:550px) {
 	.PerfectlyAni h2 span {
 		font-size: 1em;
 	}
 }
+
 @media (max-width:335px) {
 	.PerfectlyAni h2 span {
 		font-size: .8em;
 	}
 }
+
 @media (max-width:450px) {
 	.PerfectlyAni h2 span {
 		position: sticky;
