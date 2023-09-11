@@ -139,9 +139,9 @@ function Root() {
                     <LinearProgress variant='determinate' color='inherit' value={90} />
                   </div>
                   <div className="progress">
-                    <span className="skill">Python<i className="val">65%</i></span>
+                    <span className="skill">Python<i className="val">75%</i></span>
                     <div className="progress-bar-wrap">
-                      <LinearProgress variant='determinate' color='inherit' value={65} />
+                      <LinearProgress variant='determinate' color='inherit' value={75} />
                     </div>
                   </div>
                 </div>
