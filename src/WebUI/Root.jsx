@@ -37,7 +37,7 @@ function Root() {
                   <a href="https://www.instagram.com/raja_guru03/"><Instagram /></a>
                   <a href="https://github.com/Rajaguru03"><GitHub /> </a>
                   <a href="https://www.linkedin.com/in/rajagurunataraj/"><LinkedIn /> </a>
-                  <a href="mailto:rajagurun003@gmail.com"><EmailIcon /></a>
+                  <a href="mailto:rajagurunataraj003@gmail.com"><EmailIcon /></a>
                 </div>
                 <div data-aos="zoom-in-down" className='scrolldown'>
                   <div class="mouse_scroll">
@@ -87,7 +87,7 @@ function Root() {
                     </ul>
                     <ul>
                       <li><strong>Locality:</strong><p>Coimbatore, India</p></li>
-                      <li><strong>Email:</strong><p>rajagurun003@gmail.com</p></li>
+                      <li><strong>Email:</strong><p>rajagurunataraj003@gmail.com</p></li>
                     </ul>
                   </div>
                 </div>
