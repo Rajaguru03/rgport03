@@ -634,6 +634,7 @@ section {
   margin-bottom: 0;
   position: relative;
   z-index: 1;
+  font-style: "Brush Script MT, Brush Script Std, cursive";
 }
 
 .outer-circle {
@@ -659,8 +660,8 @@ section {
 }
 
 .inner-circle img {
-  width: 285px;
-  height: 370px;
+  width: 245px;
+  height: 250px;
   object-fit: cover;
 }
 
@@ -689,7 +690,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #728394;
+  color: #1a3350;
   position: relative;
   z-index: 1;
 }

@@ -5,7 +5,7 @@ import { Row, Col, Container } from 'react-bootstrap';
 import { GitHub, Instagram, LinkedIn, ArrowRightAltOutlined } from '@mui/icons-material';
 import EmailIcon from '@mui/icons-material/Email';
 import { LinearProgress } from '@mui/material'
-import RGPics from '../components/assets/img/RGPics.jpeg'
+import RGPic_ from '../components/assets/img/RGpic.png'
 import ParticleContainer from '../components/Animation'
 import { Parallax } from 'react-parallax';
 import Footer from '../components/Footer';
@@ -34,6 +34,8 @@ function Root() {
                   text={["Tester", "Developer"]}
                   speed={100}
                   eraseSpeed={100}
+                  eraseDelay={500}
+                  typingDelay={500}
                 />
                 </div>
                 <div className="social-links">
@@ -70,12 +72,12 @@ function Root() {
                   <div>
                     <div class="outer-circle">
                       <div class="inner-circle">
-                        <img src={RGPics} alt='none' />
+                        <img src={RGPic_} alt='none' />
                       </div>
                     </div>
                   </div>
                 </div>
-                <p>Hey! I'm Rajaguru Nataraj</p>
+                <p>Hey! I'm <span style={{fontFamily:"Brush Script MT, Brush Script Std, cursive"}}>Rajaguru Nataraj</span></p>
               </div>
               <div >
                 <div className="text-center content">
