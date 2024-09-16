@@ -10,6 +10,7 @@
 	font-weight: 700;
 	text-transform: uppercase;
 	margin: 0 50px;
+	height: auto !important;
 }
 
 .PerfectlyAni h2 {

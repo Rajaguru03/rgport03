@@ -168,6 +168,7 @@
 }
 
 .typed-text {
+  display: flex;
   font-size: 2rem;
   color: #00aeff;
   position: relative;
@@ -214,6 +215,10 @@
   .Hero h1 {
     font-size: 3em;
     line-height: 50px;
+  }
+  .typed-text{
+    text-align: center;
+    justify-content: center;
   }
 }
 
@@ -744,7 +749,7 @@ section {
 
 @media (max-width:565px) {
   .about .content ul li {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     display: inline-block;
     align-items: center;
   }
