@@ -83,7 +83,7 @@ function Root() {
                 <div className="text-center content">
                   <div></div>
                   <h3>Web Developer &amp; Penetration Testing</h3>
-                  <br />
+                  <br/>
                   <p>A recent computer science and engineering graduate from the "SNS College of Technology". Throughout my academic career, I have had the opportunity to improve my abilities and gain professional experience, which has provided me with useful knowledge and insights into web application development. I'm passionate about taking the initiative and developing engaging user experiences through web design and development. I am always eager to learn new things and take on new challenges, and I am constantly on the lookout for new challenges and staying current with the latest trends and technologies. I am enthusiastic about using my abilities and knowledge to lead a healthy mission.</p>
                   <div data-aos="zoom-in" className='contentId my-5 d-flex align-item-center justify-content-around'>
                     <ul>
