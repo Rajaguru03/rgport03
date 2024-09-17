@@ -171,7 +171,10 @@ function Root() {
                     <h3 className="resume-title">Sumary</h3>
                     <div className="resume-item ">
                       <h4>Rajaguru Nataraj</h4>
-                      <p><em>I'm a react developer with 1+ year of experience in the role of web development. I am experienced in various designing tools such as bootstrap, tailwind css, MUI</em></p>
+                      <p><em>Devoted and skilled individual with a unique fusion of expertise in penetration
+testing and React.js development. Showcasing a commendable track record in
+the precise identification and mitigation of security vulnerabilities, all while
+ensuring the delivery of exceptional, responsive web applications.</em></p>
                       <ul>
                         <li>rajagurun003@gmail.com</li>
                         <li>Coimbatore, Tamil Nadu, India</li>
