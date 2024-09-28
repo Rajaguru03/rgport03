@@ -11,7 +11,7 @@ import { Parallax } from 'react-parallax';
 import Footer from '../components/Footer';
 import ResumeBG from '../components/assets/img/resumeBg2.jpg'
 import PerfectlyAni from '../components/PerfectlyAni';
-import Rajaguru_Resume from '../components/assets/Resume/_Rajaguru~Resume.pdf'
+import Rajaguru_Resume from '../components/assets/Resume/_Rajaguru.Resume.pdf'
 
 function Root() {
 
