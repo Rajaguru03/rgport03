@@ -84,14 +84,14 @@ function Root() {
                   <div></div>
                   <h3>Web Craftsman &amp; Performance Validator</h3>
                   <br/>
-                  <p>A recent computer science and engineering graduate from the "SNS College of Technology". My academic journey was marked by actively honing my creativity, problem-solving and teamwork skills through numerous competitions and workshops. Driven by a passion for learning new technologies and staying ahead of industry trends. I am always eager to learn new things and take on new challenges, and I am constantly on the lookout for new challenges and staying current with the latest trends and technologies. I am enthusiastic about using my abilities and knowledge to lead a healthy mission.</p>
+                  <p>Motivated and hands on Cyber Security student pursuing a master's in cyber security and strong foundational knowledge in risk management, threat analysis and incident response. Experienced in working with real-world attack simulations via platforms like TryHackMe and Hack the Box. Continuously building skills in SIEM, vulnerability scanning, and security frameworks. I am a fast learner with strong communication skills, eager to join a dynamic team and contribute to protecting digital assets and enhancing security posture.</p>
                   <div data-aos="zoom-in" className='contentId my-5 d-flex align-item-center justify-content-around'>
                     <ul>
                       <li><strong>Birthday:</strong><p>03 Nov 2002</p></li>
-                      <li><strong>Reach Out:</strong><p>+91 95005 11202</p></li>
+                      <li><strong>Reach Out:</strong><p>+44 74230 86178</p></li>
                     </ul>
                     <ul>
-                      <li><strong>Locality:</strong><p>Coimbatore, India</p></li>
+                      <li><strong>Locality:</strong><p>United Kingdom</p></li>
                       <li><strong>Email:</strong><p>rajagurunataraj003@gmail.com</p></li>
                     </ul>
                   </div>
@@ -184,16 +184,16 @@ ensuring the delivery of exceptional, responsive web applications.</em></p>
 
                     <h3 className="resume-title">Education</h3>
                     <div className="resume-item">
-                      <h4>UNDERGRADUATE</h4>
-                      <h5>2020 - 2024</h5>
-                      <p><em>SNS College of Technology, Coimbatore, Tamil Nadu, India</em></p>
-                      {/* <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p> */}
+                      <h4>POSTGRADUATE</h4>
+                      <h5>2025 - 2026</h5>
+                      <p><em>University Of Aberdeen, United Kingdom</em></p>
+                      {/* <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p> */}
                     </div>
                     <div className="resume-item">
-                      <h4>HIGHER SECONDARY</h4>
-                      <h5>2018 - 2020</h5>
-                      <p><em>SVGV Matriculation Higher Secondary School, Coimbatore, Tamil Nadu, India  </em></p>
-                      {/* <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p> */}
+                      <h4>UNDERGRADUATE</h4>
+                      <h5>2020 - 2024</h5>
+                      <p><em>SNS College of Technology, India</em></p>
+                      {/* <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p> */}
                     </div>
                   </div>
                   <div className="col-lg-6">
