@@ -177,8 +177,8 @@ the precise identification and mitigation of security vulnerabilities, all while
 ensuring the delivery of exceptional, responsive web applications.</em></p>
                       <ul>
                         <li>rajagurun003@gmail.com</li>
-                        <li>Coimbatore, Tamil Nadu, India</li>
-                        <li>+91 9500511202</li>
+                        <li>United Kingdom</li>
+                        <li>+44 74230 86178</li>
                       </ul>
                     </div>
 
