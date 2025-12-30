@@ -61,7 +61,6 @@ function Root() {
           </div>
 
 
-
           {/******************************* ABOUT *************************************/}
 
           <div id="About" className="about py-5 my-5">
