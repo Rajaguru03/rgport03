@@ -15,7 +15,7 @@ import Rajaguru_Resume from '../components/assets/Resume/Resume~.pdf'
 
 function Root() {
 
-  return (
+  return ( 
     <>
       <ParticleContainer />
       <div className='Root'>
